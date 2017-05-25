@@ -1,0 +1,15 @@
+{
+  "name": "constellate-template-react-universally",
+  "version": "0.0.1",
+  "description": "A PWA server sider rendering React/Express application template for the Constellate eco system.",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctrlplusb/constellate-template-react-universally.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ctrlplusb/constellate-template-react-universally/issues"
+  },
+  "homepage": "https://github.com/ctrlplusb/constellate-template-react-universally#readme"
+}
